@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{3DB42A02-16C6-47B1-AC42-ED86ACCA4BA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{51C9AD08-15EF-40FC-B8D1-2539D83C1C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Strategy.EmailSender", "Behavioral\Strategy\Behavioral.Strategy.EmailSender\Behavioral.Strategy.EmailSender.csproj", "{62917D01-72A4-4E01-8204-84D321683B76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{2F963FA9-114C-4981-9CE9-643145EFEF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behavioral.Command.FileCreator", "Behavioral\Command\Behavioral.Command.FileCreator\Behavioral.Command.FileCreator.csproj", "{F9F76BFA-34BC-49BE-8A93-29FB1E6473D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62917D01-72A4-4E01-8204-84D321683B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62917D01-72A4-4E01-8204-84D321683B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62917D01-72A4-4E01-8204-84D321683B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62917D01-72A4-4E01-8204-84D321683B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F76BFA-34BC-49BE-8A93-29FB1E6473D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F76BFA-34BC-49BE-8A93-29FB1E6473D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F76BFA-34BC-49BE-8A93-29FB1E6473D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F76BFA-34BC-49BE-8A93-29FB1E6473D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51C9AD08-15EF-40FC-B8D1-2539D83C1C0B} = {3DB42A02-16C6-47B1-AC42-ED86ACCA4BA0}
+		{62917D01-72A4-4E01-8204-84D321683B76} = {51C9AD08-15EF-40FC-B8D1-2539D83C1C0B}
+		{2F963FA9-114C-4981-9CE9-643145EFEF06} = {3DB42A02-16C6-47B1-AC42-ED86ACCA4BA0}
+		{F9F76BFA-34BC-49BE-8A93-29FB1E6473D6} = {2F963FA9-114C-4981-9CE9-643145EFEF06}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64D0043-DDD7-4010-9ECA-46CB356497D2}
+	EndGlobalSection
+EndGlobal

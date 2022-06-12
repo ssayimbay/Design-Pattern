@@ -1,0 +1,15 @@
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\bin\Debug\net6.0\Behavioral.Strategy.EmailSender.exe
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\bin\Debug\net6.0\Behavioral.Strategy.EmailSender.deps.json
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\bin\Debug\net6.0\Behavioral.Strategy.EmailSender.runtimeconfig.json
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\bin\Debug\net6.0\Behavioral.Strategy.EmailSender.dll
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\bin\Debug\net6.0\Behavioral.Strategy.EmailSender.pdb
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.csproj.AssemblyReference.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.AssemblyInfoInputs.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.AssemblyInfo.cs
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.dll
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\refint\Behavioral.Strategy.EmailSender.dll
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.pdb
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\Behavioral.Strategy.EmailSender.genruntimeconfig.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Strategy\Behavioral.Strategy.EmailSender\obj\Debug\net6.0\ref\Behavioral.Strategy.EmailSender.dll
