@@ -1,0 +1,15 @@
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.csproj.AssemblyReference.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.AssemblyInfoInputs.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.AssemblyInfo.cs
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.csproj.CoreCompileInputs.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\bin\Debug\net6.0\Behavioral.Command.FileCreator.exe
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\bin\Debug\net6.0\Behavioral.Command.FileCreator.deps.json
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\bin\Debug\net6.0\Behavioral.Command.FileCreator.runtimeconfig.json
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\bin\Debug\net6.0\Behavioral.Command.FileCreator.dll
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\bin\Debug\net6.0\Behavioral.Command.FileCreator.pdb
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.dll
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\refint\Behavioral.Command.FileCreator.dll
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.pdb
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\Behavioral.Command.FileCreator.genruntimeconfig.cache
+C:\Users\serta\source\repos\DesignPattern\Behavioral\Command\Behavioral.Command.FileCreator\obj\Debug\net6.0\ref\Behavioral.Command.FileCreator.dll
