@@ -4,7 +4,6 @@ namespace Behavioral.Command.FileCreator.Services;
 
 public class FileCreateInvoker
 {
-    private IFileActionCommand? _fileActionCommand;
     private List<IFileActionCommand>? _fileActionCommands;
 
     public FileCreateInvoker()
@@ -12,23 +11,21 @@ public class FileCreateInvoker
         _fileActionCommands = new List<IFileActionCommand>();
     }
 
-    public void SetCommand(IFileActionCommand fileActionCommand)
-    {
-        _fileActionCommand = fileActionCommand;
-    }
-
-    public void AddCommand(IFileActionCommand fileActionCommand)
+    public FileCreateInvoker AddCommand(IFileActionCommand fileActionCommand)
     {
         _fileActionCommands?.Add(fileActionCommand);
+        return this;
+    }
+
+    public FileCreateInvoker RemoveCommand(IFileActionCommand fileActionCommand)
+    {
+        _fileActionCommands?.Remove(fileActionCommand);
+        return this;
     }
 
     public void Create()
     {
-        _fileActionCommand?.Execute();
-    }
-
-    public void Creates()
-    {
         _fileActionCommands?.ForEach(command => command.Execute());
+        _fileActionCommands?.Clear();
     }
 }

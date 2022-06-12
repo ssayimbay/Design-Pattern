@@ -11,22 +11,21 @@ var jsonFileCreateCommand = new JsonFileCreateCommand(new FileModel { Content = 
 var fileCreateInvoker = new FileCreateInvoker();
 
 Console.WriteLine("EXCEL COMMAND");
-fileCreateInvoker.SetCommand(excelFileCreateCommand);
-fileCreateInvoker.Create();
+fileCreateInvoker.AddCommand(excelFileCreateCommand).Create();
 
 Console.WriteLine("PDF COMMAND");
-fileCreateInvoker.SetCommand(pdfFileCreateCommand);
-fileCreateInvoker.Create();
-
+fileCreateInvoker.AddCommand(pdfFileCreateCommand).Create();
 
 Console.WriteLine("JSON COMMAND");
-fileCreateInvoker.SetCommand(jsonFileCreateCommand);
-fileCreateInvoker.Create();
+fileCreateInvoker.AddCommand(jsonFileCreateCommand).Create();
 
 Console.WriteLine("ALL COMMAND");
-fileCreateInvoker.AddCommand(excelFileCreateCommand);
-fileCreateInvoker.AddCommand(pdfFileCreateCommand);
-fileCreateInvoker.AddCommand(jsonFileCreateCommand);
-fileCreateInvoker.Creates();
+fileCreateInvoker.AddCommand(excelFileCreateCommand)
+                 .AddCommand(pdfFileCreateCommand)
+                 .AddCommand(jsonFileCreateCommand)
+                 .AddCommand(jsonFileCreateCommand)
+                 .RemoveCommand(jsonFileCreateCommand)
+                 .AddCommand(jsonFileCreateCommand)
+                 .Create();
 
 Console.ReadLine();
