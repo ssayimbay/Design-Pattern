@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\serta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ArdaSertan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\Behavioral.Command.FileCreator.csproj",
+      "projectUniqueName": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\Behavioral.Command.FileCreator.csproj",
       "projectName": "Behavioral.Command.FileCreator",
-      "projectPath": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\Behavioral.Command.FileCreator.csproj",
-      "packagesPath": "C:\\Users\\serta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\obj\\",
+      "projectPath": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\Behavioral.Command.FileCreator.csproj",
+      "packagesPath": "C:\\Users\\ArdaSertan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\serta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ArdaSertan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

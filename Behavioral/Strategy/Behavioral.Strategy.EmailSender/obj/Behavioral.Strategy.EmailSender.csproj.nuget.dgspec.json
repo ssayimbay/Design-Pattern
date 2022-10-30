@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj": {}
+    "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj": {
+    "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj",
+        "projectUniqueName": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj",
         "projectName": "Behavioral.Strategy.EmailSender",
-        "projectPath": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj",
-        "packagesPath": "C:\\Users\\serta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\obj\\",
+        "projectPath": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\Behavioral.Strategy.EmailSender.csproj",
+        "packagesPath": "C:\\Users\\ArdaSertan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Strategy\\Behavioral.Strategy.EmailSender\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\serta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ArdaSertan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

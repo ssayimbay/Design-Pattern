@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKGbFVE15jZ9dYxIZpi3yVbQtFDk2fhdrmMyfgsZ5VhHTH/uDtvcgJeYYSpDGqP+cK+tuyu6jQCQso/l1t35gA==",
+  "dgSpecHash": "RnH+RonB3eA45lLJSeXc18SqHsBo0Z72k72y1XtRstV/5IjCXLscJRz2TRMxN3mX2sOe6u+kMzgD8AsMxs5tNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serta\\source\\repos\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\Behavioral.Command.FileCreator.csproj",
+  "projectFilePath": "C:\\Users\\ArdaSertan\\Desktop\\DesignPattern\\Behavioral\\Command\\Behavioral.Command.FileCreator\\Behavioral.Command.FileCreator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\bin\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.exe
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\bin\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.deps.json
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\bin\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.runtimeconfig.json
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\bin\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.dll
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\bin\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.pdb
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.csproj.AssemblyReference.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.AssemblyInfoInputs.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.AssemblyInfo.cs
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.csproj.CoreCompileInputs.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.dll
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\refint\Behavioral.Obverser.UserRegisterNotification.dll
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.pdb
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\Behavioral.Obverser.UserRegisterNotification.genruntimeconfig.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Behavioral\Observer\Behavioral.Obverser.UserRegisterNotification\obj\Debug\net6.0\ref\Behavioral.Obverser.UserRegisterNotification.dll

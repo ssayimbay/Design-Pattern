@@ -1,0 +1,15 @@
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\bin\Debug\net6.0\Structural.Composite.FileSystem.exe
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\bin\Debug\net6.0\Structural.Composite.FileSystem.deps.json
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\bin\Debug\net6.0\Structural.Composite.FileSystem.runtimeconfig.json
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\bin\Debug\net6.0\Structural.Composite.FileSystem.dll
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\bin\Debug\net6.0\Structural.Composite.FileSystem.pdb
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.csproj.AssemblyReference.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.AssemblyInfoInputs.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.AssemblyInfo.cs
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.dll
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\refint\Structural.Composite.FileSystem.dll
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.pdb
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\Structural.Composite.FileSystem.genruntimeconfig.cache
+C:\Users\ArdaSertan\Desktop\DesignPattern\Structural\Composite\Structural.Composite.FileSystem\obj\Debug\net6.0\ref\Structural.Composite.FileSystem.dll
